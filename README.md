@@ -22,7 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Tech Stack
 Here is the Tech Stack used to create this project:
-- Frontend: Next.js, React, Tailwind CSS
+- Frontend: Next.js, React, Tailwind CSS, Typescript, JavaScript
 - Backend: node.js, MongoDB, Prisma
 - Other tools used: ClerkJS (User Authentication), Axios (Fetching Data from Database), Styled Components (Quick Styling), React-Toastify (Creating Notifications)
 
