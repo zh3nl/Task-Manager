@@ -116,6 +116,8 @@ export async function DELETE(
   }
 }
 ```
+## To Host Your Own Web App
+Make sure that you have a Clerk and MongoDB account and have installed all of the necessary packagaes (tech stack stated above). 
 
 ## Deploy on Vercel
 
